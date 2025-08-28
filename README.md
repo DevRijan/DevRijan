@@ -50,23 +50,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Fun Zone**
-
-<div align="center">
-
-### 🎯 **Developer Vibes**
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-### 🎵 **Currently Coding To**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing?username=your-spotify-username&background_color=0D1117&border_color=58A6FF)](https://spotify-github-profile.vercel.app/api/spotify-playing?username=your-spotify-username)
-
-### 🌟 **Random Dev Quote**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Support My Work**
 
 <div align="center">
