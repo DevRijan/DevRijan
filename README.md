@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Full-Stack+Developer+💻;Code+Craftsman;Problem+Solver+;Code+Craftsman+⚡)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+Full-Stack+Developer+💻;Code+Craftsman;Problem+Solver+🧩;Code+Craftsman+⚡)
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
@@ -33,7 +33,7 @@
 <div align="center">
 
 ### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=DevRijan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4](https://github-profile-trophy.vercel.app/?username=DevRijan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevRijan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 ### 📈 **Coding Stats**
 <!--START_SECTION:waka-->
@@ -50,34 +50,9 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Support My Work**
-
-<div align="center">
-  
-  <p>If you like what I do, consider buying me a coffee ☕</p>
-  
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-  
-  <br><br>
-  
-  <p>⭐ Star my repositories if you find them helpful!</p>
-  
-</div>
-
----
-
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  ### 💫 **Thanks for visiting my profile!** 
-  
-  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
   
   <img src="https://komarev.com/ghpvc/?username=DevRijan&label=Profile%20Views&color=58A6FF&style=flat-square" />
   
@@ -89,14 +64,13 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 
-🚀 **Welcome to my digital playground!**  
+**Welcome to my digital workspace.**  
 I'm passionate about building efficient web applications, working with databases, and mastering core programming concepts.  
 
 - 💻 Building scalable web solutions
 - 🗄️ Database architecture enthusiast  
 - 🌱 Always learning and exploring new technologies
 - 🎯 Open for collaborations and exciting opportunities
-- ⚡ Fun fact: I debug with coffee and solve problems with creativity!
 
 <br clear="both"/>
 
