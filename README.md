@@ -27,4 +27,4 @@ I’m passionate about building efficient web applications, working with databas
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/DevRijan/DevRijan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevRijan/Web-kit/blob/output/github-contribution-grid-snake.svg)
