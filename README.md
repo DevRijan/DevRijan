@@ -19,12 +19,12 @@ I’m passionate about building efficient web applications, working with databas
 
 ## 📊 GitHub Stats
 
-![Rijan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rijanmahat&show_icons=true&theme=radical)
+![Rijan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRijan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijanmahat&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRijan&layout=compact&theme=radical)
 
 ---
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/rijanmahat/rijanmahat/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevRijan/DevRijan/blob/output/github-contribution-grid-snake.svg)
