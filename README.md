@@ -152,7 +152,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/📧%20%20Email%20Me-8b5cf6?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/rijan-mahat-b9a324281](https://www.linkedin.com/in/rijan-mahat-b9a324281/">
+<a href="https://www.linkedin.com/in/rijan-mahat-b9a324281](https://www.linkedin.com/in/rijan-mahat-b9a324281/](https://www.linkedin.com/in/rijan-mahat-b9a324281/?skipRedirect=true">
   <img src="https://img.shields.io/badge/💼%20%20LinkedIn-0ea5e9?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
