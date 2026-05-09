@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+the+Web%2C+One+Line+at+a+Time+%E2%9C%A8;Turning+Coffee+into+Clean+Code+%E2%98%95;Architect+of+Digital+Experiences+%F0%9F%8C%90;Full-Stack+Developer+%7C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+the+Web%2C+One+Line+at+a+Time+%E2%9C%A8;Turning+Coffee+into+Clean+Code+%E2%98%95;Architect+of+Digital+Experiences+%F0%9F%8C%90;Full-Stack+Developer+%7C+Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,6 @@ I'm a **Full-Stack Developer** based in Nepal 🇳🇵, obsessed with crafting e
 ```yaml
 name: Rijan Mahat
 handle: DevRijan
-location: Nepal 🇳🇵
 focus: Full-Stack Web Development
 passions:
   - Scalable Architecture
@@ -127,6 +126,30 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🧰 Web-kit — *Personal Web Development Toolkit*
+
+[![Web-kit](https://github-readme-stats.vercel.app/api/pin/?username=DevRijan&repo=Web-kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9)](https://github.com/DevRijan/Web-kit)
+
+> A comprehensive, battle-tested collection of web development tools, utilities, and reusable components — built to accelerate modern web development.
+
+**Stack:** `JavaScript` `HTML5` `CSS3` `PHP`
+
+---
+
+### 🔭 More Projects Incoming...
+
+```
+Currently engineering something remarkable.
+Watch this space. ⭐
+```
+
+</div>
+
+---
 
 ## 🐍 Contribution Graph
 
