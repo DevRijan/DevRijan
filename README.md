@@ -39,7 +39,7 @@
 
 > *"Great software is built at the intersection of creativity and precision."*
 
-I'm a **Full-Stack Developer** based in Nepal 🇳🇵, obsessed with crafting elegant, high-performance web applications. I believe every line of code is an opportunity to solve a real problem beautifully.
+I'm a **Full-Stack Developer** , obsessed with crafting elegant, high-performance web applications. I believe every line of code is an opportunity to solve a real problem beautifully.
 
 ```yaml
 name: Rijan Mahat
