@@ -126,38 +126,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🧰 Web-kit — *Personal Web Development Toolkit*
-
-[![Web-kit](https://github-readme-stats.vercel.app/api/pin/?username=DevRijan&repo=Web-kit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9)](https://github.com/DevRijan/Web-kit)
-
-> A comprehensive, battle-tested collection of web development tools, utilities, and reusable components — built to accelerate modern web development.
-
-**Stack:** `JavaScript` `HTML5` `CSS3` `PHP`
-
----
-
-### 🔭 More Projects Incoming...
-
-```
-Currently engineering something remarkable.
-Watch this space. ⭐
-```
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/DevRijan/DevRijan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 📡 Activity Graph
 
